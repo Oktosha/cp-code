@@ -1,0 +1,11 @@
+x = update;
+x = relax(x, update);
+
+cout << (ans + 1) << endl;
+cout << (ans + 1) % MODULO << endl;
+
+a = x << 1;
+a = x << 1ll;
+
+20 * 20 = 40
+20 * 20 = 400
